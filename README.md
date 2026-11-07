@@ -13,6 +13,46 @@
 
 ---
 
+# 🚀 Projects & Research:
+
+### 🛡️ SafeRoute AI
+- AI-powered women’s safety route prediction and emergency assistance system.
+- Working with React, TypeScript, Spring Boot, PostgreSQL, PostGIS and Python FastAPI.
+- Exploring route planning, location-based services and emergency assistance.
+
+### ☁️ Cross-Cloud Security Research
+- Exploring detection of suspicious privilege and role changes across AWS, Azure and GCP.
+- Working with synthetic cloud audit events and a common event model.
+- Studying event correlation and machine-learning-based detection approaches.
+
+### 📡 IoT Experiments
+- Practiced ESP32 development using Wokwi.
+- Explored MQTT communication and IoT fundamentals.
+
+### 🐳 Docker Practice
+- Experimented with Docker containers and running an Apache HTTP server using a Docker image.
+
+---
+
+# 💻 Problem Solving:
+- Practicing Data Structures and Algorithms using Java.
+- Solving problems on LeetCode.
+- Completed the 100 Days of LeetCode challenge.
+- Practicing arrays, strings, HashMap, HashSet, prefix sums and problem-solving patterns.
+
+---
+
+# 📚 Technical Learning:
+- Java and Object-Oriented Programming
+- Data Structures and Algorithms
+- SQL and DBMS
+- Spring Boot and REST APIs
+- HTML, CSS and JavaScript
+- Backend Development
+- Operating Systems and Computer Networks
+
+---
+
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinchana-s-582a21397)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sinchanaju18@gmail.com)
@@ -54,26 +94,27 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SinchanaS18&show_icons=true&theme=dark&hide_border=false" height="180" />
-  <img src="https://streak-stats.demolab.com?user=SinchanaS18&theme=dark&hide_border=false" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api?username=SinchanaS18&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinchanaS18&layout=compact&theme=dark&hide_border=false" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SinchanaS18&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SinchanaS18&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SinchanaS18&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
+# 🏆 Achievements:
+- GitHub Pull Shark
+- GitHub YOLO
+- 100 Days of LeetCode badge
 
 ---
 
 # 👀 Profile Views:
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=SinchanaS18&label=PROFILE+VIEWS&color=0e75b6&style=flat" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SinchanaS18&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
