@@ -58,10 +58,8 @@
 ---
 
 # 📊 GitHub Stats:
-
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=SinchanaS18&show_icons=true&theme=dark&hide_border=false" height="180" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SinchanaS18&layout=compact&theme=dark&hide_border=false" height="180" />
+  <img src="https://github-readme-streak-vercel.vercel.app?user=SinchanaS18&theme=dark" alt="GitHub Streak" />
 </p>
 
 <p align="center">
