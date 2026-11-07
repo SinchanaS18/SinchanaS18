@@ -20,6 +20,7 @@
 ---
 
 # 💻 Tech Stack:
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -49,21 +50,15 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 ![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black)
 
-### Outskill & IoT Technologies:
+### Additional Technologies:
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![Wokwi](https://img.shields.io/badge/Wokwi-4A90E2?style=for-the-badge)
-![DHT22](https://img.shields.io/badge/DHT22-Sensor-2E8B57?style=for-the-badge)
-![WiFi](https://img.shields.io/badge/Wi--Fi-005A9C?style=for-the-badge&logo=wifi&logoColor=white)
-![HTTP](https://img.shields.io/badge/HTTP-005C84?style=for-the-badge)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-444444?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
-![Webhooks](https://img.shields.io/badge/Webhooks-7952B3?style=for-the-badge)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![OSRM](https://img.shields.io/badge/OSRM-4B8BBE?style=for-the-badge)
+![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white)
 
 ---
 
@@ -81,6 +76,9 @@
 ---
 
 # 👀 Profile Views:
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SinchanaS18&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
