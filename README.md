@@ -56,6 +56,7 @@ I'm interested in Java Development and Backend Engineering. I enjoy turning idea
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat)
 ![Wokwi](https://img.shields.io/badge/Wokwi-1A73E8?style=flat)
@@ -66,9 +67,9 @@ I'm interested in Java Development and Backend Engineering. I enjoy turning idea
 
 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SinchanaS18&show_icons=true&theme=dark&hide_border=false&include_all_commits=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SinchanaS18&show_icons=true&theme=dark&hide_border=false&include_all_commits=true)
 
-![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SinchanaS18&layout=compact&theme=dark&hide_border=false)
+![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=SinchanaS18&layout=compact&theme=dark&hide_border=false)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SinchanaS18&theme=dark&hide_border=false)
 
