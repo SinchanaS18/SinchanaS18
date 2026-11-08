@@ -1,11 +1,12 @@
 💫 About Me:
 🔭 I'm currently working on: SafeRoute AI – AI-powered women’s safety and emergency assistance system.
+
 👯 I'm looking to collaborate on: Java-based applications, Backend Development and Open-Source Projects.
 🤝 I'm looking for help with: Backend Engineering, System Design and Cloud Security.
 🌱 I'm currently learning: Java, Spring Boot, REST APIs, DSA, DBMS and SQL.
 💬 Ask me about: Java, Data Structures & Algorithms, MySQL and Web Development.
 ⚡ Fun fact: I believe consistency beats perfection, and every problem solved makes me a better developer.
----
+----
 🌐 Socials:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
